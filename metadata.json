@@ -1,0 +1,18 @@
+{
+    "title": "Sample Solution: Python Print Prime Numbers Below 100",
+    "slug": "sample-solution-1-python-primes-below-100",
+    "description": "Worked prime-generation solution using a growing prime list, inner-loop factor checks, and control flow.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "python",
+        "sample-solution"
+    ],
+    "duration": 4,
+    "prerequisites": [
+        "exercise-python-primes-below-100"
+    ],
+    "related": [
+    ]
+}
