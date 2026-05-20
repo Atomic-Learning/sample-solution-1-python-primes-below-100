@@ -13,7 +13,7 @@ for candidate in range(2, 101):
     not_a_prime = False
     for prime in primes:
         # Check if the candidate is divisible by any existing prime
-        # If candidate is divisible prime, candidate % prime will be 0
+        # If candidate is divisible by prime, candidate % prime will be 0
         if candidate % prime == 0:
             # If it is divisible, it is not a prime number
             not_a_prime = True
